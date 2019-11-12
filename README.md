@@ -1,5 +1,7 @@
-# Maths
+#Maths
 maths project using C++
-Lab1 epsilon machine 
-Lab2 taylor series
-Error approximation
+
+1). Lab1 epsilon machine 
+2). Lab2 taylor series
+3). Lab3 Error approximation
+4). Lab4 Truncattion
