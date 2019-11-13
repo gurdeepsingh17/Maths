@@ -10,3 +10,8 @@ maths project using C++
 4). Lab4 Truncation
 
 5). Lab 5 Numerical Differentiation
+
+part a) Forward divided difference
+
+part b) Trapezoided
+
