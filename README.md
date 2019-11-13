@@ -8,3 +8,5 @@ maths project using C++
 3). Lab3 Error approximation
 
 4). Lab4 Truncation
+
+5). Lab 5 Numerical Differentiation
