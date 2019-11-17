@@ -11,7 +11,7 @@ maths project using C++
 
 5). Lab 5 Numerical Differentiation
 
-part a) Forward divided difference
+part a) Forward divided difference(differentiation)
 
-part b) Trapezoided
+part b) Trapezoided method(integration)
 
