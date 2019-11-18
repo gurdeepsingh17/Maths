@@ -1,6 +1,6 @@
-#include <iostream> //header file to include input & output stream
-#include <math.h>  //math header file from library is included
-#include <iomanip> //manipulators header file include
+#include<iostream> //header file to include input & output stream
+#include<math.h>  //math header file from library is included
+#include<iomanip> //manipulators header file include
 using namespace std;  ////using standard library namespace
 int main() //
 {
