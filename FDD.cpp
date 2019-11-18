@@ -24,7 +24,8 @@ void cal_sin(float n)
         x1 = -x1 * n * n / denominator;
         sinx = sinx + x1;
         i = i + 1;
-    } while (accuracy <= fabs(sinval - sinx));
+    }
+    while (accuracy <= fabs(sinval - sinx));
     cout << "Approximate value of derivate of sinx at 45 degree is :"<<sinx;
     cout <<"\n True value of derivative of sin x at 45 degree is: "<< sinval;
 }
