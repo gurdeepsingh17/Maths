@@ -2,7 +2,6 @@
  * LU_dec.cpp
  *
  *  Created on: Oct 21, 2019
- *      Author: ramneet
  */
 #include<iostream>
 using namespace std;
