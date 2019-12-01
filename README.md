@@ -1,17 +1,19 @@
 #Maths
 maths project using C++
 
-1). Lab1 epsilon machine 
+1). Lab 1 epsilon machine 
 
-2). Lab2 taylor series
+2). Lab 2 taylor series
 
-3). Lab3 Error approximation
+3). Lab 3 Error approximation
 
-4). Lab4 Truncation
+4). Lab 4 Truncation
 
 5). Lab 5 Numerical Differentiation
 
 part a) Forward divided difference(differentiation)
 
 part b) Trapezoided method(integration)
+
+6). Lab 6 LU decomposition 
 
