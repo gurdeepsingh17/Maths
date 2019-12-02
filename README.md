@@ -17,3 +17,4 @@ part b) Trapezoided method(integration)
 
 6). Lab 6 LU decomposition 
 
+7). Lab 7 Runge kutta(order-4)
