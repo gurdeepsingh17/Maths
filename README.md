@@ -1,5 +1,5 @@
-#Maths
-maths project using C++
+
+Maths lab reports
 
 1). Lab 1 epsilon machine 
 
